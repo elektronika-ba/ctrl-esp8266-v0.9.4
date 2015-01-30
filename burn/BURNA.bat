@@ -1,0 +1,1 @@
+esptool.py --port COM6 write_flash 0x00000 ../firmware/0x00000.bin
